@@ -15,7 +15,7 @@
 	<h1>this is a pipeline test</h1>
 <h1>hi i am just pushed from the developer machine</h1>
   <p>
-    This is a very simple wamba eric mya.
+    This is a very simple wamba eric mya cameroun.
   </p>
 </body>
 </html>
